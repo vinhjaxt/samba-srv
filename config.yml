@@ -1,0 +1,9 @@
+share:
+  - name: public
+    path: /share
+    browsable: yes
+    readonly: no
+    guestok: yes
+    veto: no
+    hidefiles: /_*/
+    recycle: yes
